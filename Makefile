@@ -3,7 +3,7 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By22sazzeddi <sazzeddi@student.42.fr>          +#+  +:+       +#+         #
+#    sosazzeddi <sazzeddi@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/12/08 13:56:21 by sazzeddi          #+#    #+#              #
 #    Updated: 2022/12/08 13:56:22 by sazzeddi         ###   ########.fr        #
